@@ -21,13 +21,33 @@ A Python terminal application for managing food orders at a concession stand.
 | Kota   | R17.00  |
 | Pap    | R10.00  |
 
-## Usage
+## How to Run
 
-```bash
-python concession_stand.py
-```
+### Prerequisites
+- Python 3.x installed on your system
 
-Enter item names to add to cart. Type `q` to checkout.
+### Steps
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/nqobile-x/Concession-Stand.git
+   ```
+
+2. Navigate to the project folder:
+   ```bash
+   cd Concession-Stand
+   ```
+
+3. Run the program:
+   ```bash
+   python concession_stand.py
+   ```
+
+4. Follow the prompts:
+   - View the menu displayed
+   - Type an item name (e.g., `pizza`) and press Enter to add it to your cart
+   - Repeat to add more items
+   - Type `q` and press Enter to checkout and see your total
 
 ## Concepts Demonstrated
 
